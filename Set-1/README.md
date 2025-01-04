@@ -1,6 +1,6 @@
-# my first set of the exercise
+# My First Set-1 of the exercise
 
-## i tackled the issues below
+## I Tackled The Issues below
 
 1. Data Types
 2. Variables
